@@ -3,7 +3,7 @@
 https://prajinpatil42.github.io/Job_Application-Form/
 
 
-<h1>JOB APPLICATION Form using Html and Css</h1>
+<h1>job application  Form using html and css</h1>
 
 <h1>UI of job application form</h1>
 
